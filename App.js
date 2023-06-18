@@ -77,7 +77,7 @@ export default function App() {
     <View style={styles.container}>
       <StatusBar />
       <View style={styles.topBar}>
-        <Text style={styles.titleText}>Short Notes</Text>
+        <Text style={styles.titleText}>Notes(Offline)</Text>
       </View>
       <FlatList
         data={data}
