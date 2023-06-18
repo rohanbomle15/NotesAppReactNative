@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NotesAppReactNative",
+    "slug": "NotesAppReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NotesAppReactNative"
+}
